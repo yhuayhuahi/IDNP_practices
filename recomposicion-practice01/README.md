@@ -10,6 +10,10 @@
 
 ---
 
+## La app
+
+![Preview](preview.png)
+
 ## ¿Qué hace la app?
 
 Simula una pantalla de **compra de entradas de cine**. El usuario puede:

@@ -24,7 +24,7 @@ fun CompraEntradas() {
     val precioEntrada = 15
     val precioCanchita = 8
     val precioBebida = 5
-    val descuentoCupon = 10
+    val descuentoCupon = 5
 
     var cantidad by remember { mutableStateOf(2) }
     var canchita by remember { mutableStateOf(false) }

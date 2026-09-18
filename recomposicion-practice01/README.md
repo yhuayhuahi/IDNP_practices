@@ -5,7 +5,8 @@
 | Nombre |
 |--------|
 | Huayhua Hillpa Yourdyy Yossimar |
-|  |
+| Zeballos Perez Juan Sergio |
+| Llave Apaza Jose Rodolfo | 
 
 ---
 
